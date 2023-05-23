@@ -10,3 +10,8 @@ simple features, but can better apply to dynamic data than previous experiments 
 Convolutional Networks (GCNs).
 
 This project was completed by Wilson Strasilla for the fulfillment of CS274 with Dr. Teng Moh at San Jose State University
+
+References: 
+Regression implementation adapted from Yulia Newton's sample demo on regression. http://alumni.soe.ucsc.edu/~ynewton/
+GCN implementation adapted from https://antonsruberts.github.io/graph/gcn/ by Anton Ruberts
+GraphSAGE implementation adapted from the stellargraph library GraphSAGE demo https://stellargraph.readthedocs.io/en/stable/demos/embeddings/graphsage-unsupervised-sampler-embeddings.html
